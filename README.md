@@ -25,5 +25,4 @@ A productivity-focused app to manage tasks and priorities.
 - **Tools:** Git, Webpack, Vite, Figma  
 - **Testing:** Jest, Cypress
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Pellegrin&show_icons=true&theme=radical)
+
