@@ -9,7 +9,7 @@
 
 ## 🇫🇷 À propos de moi
 - 🎓 Étudiant en **maîtrise TI** à l’ÉTS (Montréal)  
-- 🚀 Passionné par le **développement full‑stack**, la **data**, l’**IA appliquée** et l’architecture **BI**  
+- 🚀 Passionné par le **développement full‑stack**, la **data** et l’**IA appliquée**
 - 🎯 Objectif 2025 : **stage dès septembre**, puis **projet d’intervention interne** (janvier → août) pour optimiser les processus d’entreprise  
 - 🛠️ Stack principale&nbsp;: Vue.js • Nuxt.js • Node.js • Symfony • Python • SQL  
 - 📚 Curieux de tout : ML / MLOps, DevOps léger (Docker, CI/CD GitHub Actions), clean architecture  
@@ -32,7 +32,6 @@
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![Power BI](https://img.shields.io/badge/-Power%20BI-f2c811?logo=powerbi&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=docker&logoColor=white&style=for-the-badge)
 
 ---
@@ -41,6 +40,7 @@
 | Repo | Description courte |
 |------|-------------------|
 | **recommandation_films_mti820** | Système de reco films (Nuxt 3 + FastAPI + ML) |
+| **airbnb-montreal-analytics** | Analyse des données Airbnb de Montréal (Python + SQL + visualisations) |
 
 ---
 
