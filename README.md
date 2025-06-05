@@ -17,7 +17,7 @@
 
 ## 🇬🇧 About me
 - 🎓 Master’s in **IT** student at ÉTS (Montreal)  
-- 🚀 Passionate about **full‑stack dev**, **data analytics**, **applied AI**, and **BI architectures**  
+- 🚀 Passionate about **full‑stack dev**, **data analytics** and **applied AI**
 - 🎯 2025 goal: join a company for a **September internship** then run an **in‑house intervention project** (Jan–Aug) focused on process optimization  
 - 🛠️ Main stack: Vue.js • Nuxt.js • Node.js • Symfony • Python • SQL  
 - 📚 Always learning: ML / MLOps, lightweight DevOps (Docker, GitHub Actions), clean architecture  
